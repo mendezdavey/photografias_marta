@@ -33,6 +33,7 @@
             
             //responsive code begin
             //you can remove responsive code if you don't want the slider scales while window resizing
+            /*
             function ScaleSlider() {
                 var refSize = jssor_1_slider.$Elmt.parentNode.clientWidth;
                 if (refSize) {
@@ -47,6 +48,6 @@
             $Jssor$.$AddEvent(window, "load", ScaleSlider);
             $Jssor$.$AddEvent(window, "resize", ScaleSlider);
             $Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
-            //responsive code end
+            //responsive code end*/
         };
   

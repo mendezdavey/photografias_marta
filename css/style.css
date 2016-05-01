@@ -25,3 +25,25 @@
 	padding-bottom: -20px;
 	padding-top: 0px;
 }
+.text{
+	padding: 5px;
+}
+
+
+/* Large desktop */
+@media (min-width: 1200px) {
+    /* --------------------------------------
+       Carousel at 1200px
+   -------------------------------------- */
+
+	#slide1 {
+	    background: url("../img/guy749.jpg") top center no-repeat;
+	}
+	
+	#slide2 {
+	    background: url("../../images/stream_large.jpg") top center no-repeat;
+	}
+	
+	#slide3 {
+	    background: url("../../images/ocean_large.jpg") top center no-repeat;
+	}
